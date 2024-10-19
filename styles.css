@@ -185,8 +185,8 @@ footer {
     .link-contatti a {
         width: 150px;
     }
-    h1 {
-        margin-left: 15px;
+    .welcome-section {
+        padding: 15px;
     }
 }
  
