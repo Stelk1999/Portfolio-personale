@@ -191,5 +191,8 @@ footer {
     .welcome-section h1 {
         font-size: 6rem;
     }
+    .menu {
+        justify-content: center;
+    }
 }
  
