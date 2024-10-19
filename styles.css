@@ -194,5 +194,8 @@ footer {
     .menu {
         justify-content: center;
     }
+    .menu-list {
+        margin-right: 0;
+    }
 }
  
