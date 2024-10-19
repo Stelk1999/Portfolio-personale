@@ -84,7 +84,7 @@ h1 {
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: var(--colore-scritte-menu);
+    color: coral;
 }
  .griglia-progetti img {
     max-width: 100%;
