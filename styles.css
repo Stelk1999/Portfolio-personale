@@ -44,7 +44,7 @@ ul {
     font-size: 2rem;
     display: block;
     text-decoration: none;
-    color: var(--colore-scritte-menu);
+    color: #3a3d40;
     transition: background-color 0.3s;
 }
 
@@ -87,7 +87,7 @@ h1 {
     color: coral;
 }
  .griglia-progetti img {
-    max-width: 100%;
+  max-width: 100%;
   width: 100%;
   height: 410px;
   object-fit:cover;
@@ -125,7 +125,7 @@ a p {
     background-color:#3a3d40;
 }
 .code {
-    color:#3a3d40;
+    color: #3a3d40;
     transition: color 0.3s;
 }
 .griglia-progetti a:hover .code{
