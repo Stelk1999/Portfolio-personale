@@ -27,7 +27,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background: coral;
+    background: rgb(232, 132, 75);
 }
 
 ul {
@@ -75,7 +75,7 @@ h1 {
     color: white;
 }
 .project-tile {
-    background: coral;
+    background: rgb(232, 132, 75);
     padding: 10rem 2rem;
     
 }
@@ -84,7 +84,7 @@ h1 {
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: coral;
+    color: rgb(232, 132, 75);
 }
  .griglia-progetti img {
   max-width: 100%;
@@ -129,7 +129,7 @@ a p {
     transition: color 0.3s;
 }
 .griglia-progetti a:hover .code{
-    color: coral;
+    color: rgb(232, 132, 75);
 }
 h2 {
     text-align: center;
