@@ -239,12 +239,12 @@ footer {
         color: white;
         background-color: transparent;
     }
-       .menu-list a:hover {
-        background-color: transparent; /* Rimuovi il colore di sfondo anche al passaggio del mouse sui dispositivi mobili */
+    .menu-list a:hover,
+    .menu-list a:focus,
+    .menu-list a:active {
+        background-color: transparent; /* Rimuovi il colore di sfondo anche al passaggio del mouse, focus o quando è attivo */
     }
-      .menu-list.active a {
-        background-color: transparent !important; /* Rimuovi lo sfondo quando il menu è attivo */
-    }
+
 
     .hamburger {
         display: block; /* Mostra l'icona hamburger su mobile */
