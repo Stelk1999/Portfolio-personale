@@ -242,6 +242,9 @@ footer {
        .menu-list a:hover {
         background-color: transparent; /* Rimuovi il colore di sfondo anche al passaggio del mouse sui dispositivi mobili */
     }
+      .menu-list.active a {
+        background-color: transparent !important; /* Rimuovi lo sfondo quando il menu è attivo */
+    }
 
     .hamburger {
         display: block; /* Mostra l'icona hamburger su mobile */
