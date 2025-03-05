@@ -242,7 +242,7 @@ footer {
     .menu-list a:hover,
     .menu-list a:focus,
     .menu-list a:active {
-        background-color: transparent; /* Rimuovi il colore di sfondo anche al passaggio del mouse, focus o quando è attivo */
+        background-color: transparent !important; /* Rimuovi il colore di sfondo anche al passaggio del mouse, focus o quando è attivo */
     }
 
 
