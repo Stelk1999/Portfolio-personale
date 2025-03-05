@@ -218,14 +218,14 @@ footer {
     .menu-list {
         display: none;
         flex-direction: column;
+        background: var(--colore-sezione-principale);
         position: absolute;
         top: 90px;
         left: 0; /* Assicura che parta dal bordo sinistro */
         width: 100vw; /* Occupa esattamente tutta la larghezza */
         text-align: center;
         padding: 10px 0;
-        overflow-x: hidden;
-        background-color: #894344;/* Evita lo scroll orizzontale */
+        overflow-x: hidden; /* Evita lo scroll orizzontale */
     }
 
     .menu-list.show {
@@ -237,8 +237,8 @@ footer {
         display: block;
         text-decoration: none;
         color: white;
-        background-color: transparent;
     }
+
     .menu-list a:hover,
     .menu-list a:focus,
     .menu-list a:active {
@@ -256,4 +256,5 @@ footer {
         text-align: center;
     }
 }
+ 
  
