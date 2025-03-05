@@ -218,7 +218,6 @@ footer {
     .menu-list {
         display: none;
         flex-direction: column;
-        background: var(--colore-sezione-principale);
         position: absolute;
         top: 90px;
         left: 0; /* Assicura che parta dal bordo sinistro */
