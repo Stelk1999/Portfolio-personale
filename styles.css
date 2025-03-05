@@ -237,7 +237,7 @@ footer {
         display: block;
         text-decoration: none;
         color: white;
-        
+        background-color: transparent;
     }
 
     .hamburger {
